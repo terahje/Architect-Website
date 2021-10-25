@@ -323,7 +323,8 @@ html {
   letter-spacing: 0.1rem;
   opacity: 0;
   visibility: hidden;
-  transition: all 0.2s;
+  /* added a delay to the transition so it didnt show right away when you click the menu, now only shows as a helper */
+  transition: all 0.2s 0.6s;
 }
 
 .change .hamburger-menu:hover span {
