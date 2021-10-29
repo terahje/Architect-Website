@@ -27,6 +27,7 @@ This project's highlights include the elegant use of animations and how they can
 
 ## Credits
 
+Code And Create
 tilt.js in Team Section
 
 ## Questions :question:
